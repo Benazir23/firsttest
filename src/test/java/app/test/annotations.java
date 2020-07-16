@@ -19,7 +19,7 @@ public class annotations {
 	}
 	@Test(priority=5 , groups={"aaa"})
 	public void atest4(){
-		System.out.println("test4");
+		System.out.println("test");
 	}
 	@Test(groups={"bbb"})
 	public void atest5(){

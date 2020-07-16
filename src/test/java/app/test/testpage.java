@@ -2,7 +2,6 @@ package app.test;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.asserts.Assertion;
 
 import app.page.BaseClass;
 import app.page.objectclass;
