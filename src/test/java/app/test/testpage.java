@@ -17,7 +17,7 @@ public class testpage {
 	
 
 @Test
-public void verifytest(){
+public void verifytest12(){
 	a.getDresses().click();
 	b.movement(a.getPsearch());
 	a.getCartadd().click();
